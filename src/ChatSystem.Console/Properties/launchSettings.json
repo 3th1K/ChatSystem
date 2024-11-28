@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ChatSystem.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "--client"
+    }
+  }
+}
